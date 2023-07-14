@@ -1,2 +1,2 @@
 # studentManagement
-Explore an elegant Student Management System built in C++ with OOP. Add, display, search, update, and delete student records effortlessly. Enjoy its modular design, efficiency, and scalability. Discover the harmonious integration of functionality on my GitHub profile.
+Discover an elegant Student Management System project implemented using object-oriented programming in C++. This project showcases five key features: adding, displaying, searching, updating, and deleting student records. With a modular and extensible design, it offers efficiency, readability, and scalability. Explore the source code on my GitHub profile to witness the harmonious integration of functionality, making student data management effortless and delightful.
