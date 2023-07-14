@@ -16,5 +16,3 @@ Lastly, embrace the flexibility and ease-of-use offered by the "Delete Student" 
 Immerse yourself in the elegance of this Student Management System project, masterfully implemented using object-oriented programming in C++. This project not only demonstrates my proficiency in C++ and OOP but also showcases my commitment to building intuitive and efficient solutions.
 
 Discover the beauty and power of this project by exploring its source code on my GitHub profile. Witness firsthand the harmonious integration of functionality, maintainability, and scalability, all designed to simplify the management of student data.
-
-Join me on this journey and experience the remarkable capabilities of this Student Management System project today!
